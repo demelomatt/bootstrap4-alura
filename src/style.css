@@ -1,0 +1,35 @@
+html {
+    font-size: 1rem;
+  }
+  
+  .font-title {
+    font-family: 'Pacifico', cursive;
+  }
+  
+  .carousel-principal__img {
+    object-fit:cover; 
+    object-position: 0 80%;
+    height: 400px;
+  }
+  
+  .main-color {
+    color: darkred !important;
+  }
+  
+  .main-button {
+    background-color: darkred;
+    color: white;
+  }
+  
+  .card__border {
+    border-color: darkred;
+  }
+  
+  .card__img {
+    object-fit:cover; 
+    height: 200px;
+  }
+  
+  .card__article {
+    max-width: 18rem;
+  }
